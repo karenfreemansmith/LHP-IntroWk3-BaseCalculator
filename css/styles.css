@@ -10,3 +10,12 @@ h1 {
   font-family: 'Roboto', sans-serif;
   border: dotted red 25px;
 }
+
+#appSpace {
+  background-color: red;
+  color: white;
+  width: 60%;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+}
