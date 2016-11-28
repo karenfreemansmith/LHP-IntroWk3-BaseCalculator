@@ -8,7 +8,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 ![screenshot of project running](screenshot.png)
 
 ## Description
-*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 3 Individual Project: A website to provide voter information based on age. If they are a first time voter, there is a survey to see what party they would best fit in.*
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 3 Individual Project: A website to convert between different bases.*
 
 ## Setup/Installation
 * [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-BaseCalculator)
